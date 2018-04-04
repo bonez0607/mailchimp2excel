@@ -14,13 +14,14 @@ Visual Basic for Applications (VBA)
 	* Import `Mailchimp2Excel.bas` Module
 ##Usage
 * Select the sheet you would like to import your subscriber data into from the **VBAProject** window
-* Within a `Sub` call the `get_list()` sub. 
+* Within a Sub procedure call the `get_list()` sub. 
  ```
   Sub your_sub_name()
     Call get_list("[YOUR API KEY]", "[YOUR LIST ID]", 100, "[YOUR SHEET NAME]"
   EndSub
  ```
 * The parameter that contains `100` is the total number of subscribers you would like to import. 
+* Run your Sub procedure.
 * Your data should now be displayed in the appropriate sheet!
 
 ## Prerequisites
