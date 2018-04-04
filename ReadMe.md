@@ -1,12 +1,12 @@
-#Mailchimp to Excel
+# Mailchimp to Excel
 
-##Getting Started
+## Getting Started
 This is script access account list information using a the MailChimp api to import directly into Microsoft Excel. 
 
-##Built With
+## Built With
 Visual Basic
 
-##License
+## License
 This project is licensed under the MIT license.
 
-##Acknowledgments
+## Acknowledgments
