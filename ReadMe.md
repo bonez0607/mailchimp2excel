@@ -12,6 +12,8 @@ Visual Basic for Applications (VBA)
 	* Import `JSONConverter.bas` Module
 	* Import `Base64Encoder.bas` Module
 	* Import `Mailchimp2Excel.bas` Module
+5. **Add Dictionary reference/class**
+	* For Windows-only, include a reference to "Microsoft Scripting Runtime"
 ## Usage
 * Select the sheet you would like to import your subscriber data into from the **VBAProject** window
 * Within a Sub procedure call the `get_list()` sub. 
